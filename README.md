@@ -63,13 +63,13 @@ My work included backend and frontend development, authentication, adaptive asse
 ## Education
 
 **Master of Science in Computer Science**  
-Saint Martin's University
+Saint Martin's University — *GPA: 4.0/4.0*
 
 **Bachelor of Science in Computer Science**  
 Saint Martin's University — *Magna Cum Laude*
 
 **Bachelor of Science in Psychology**  
-Washington State University
+Washington State University — *Cum Laude*
 
 ## Currently Learning & Developing
 
